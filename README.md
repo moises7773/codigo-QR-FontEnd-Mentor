@@ -1,16 +1,60 @@
-# React + Vite
+# Solución de Frontend Mentor — Componente de código QR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es mi solución para el [reto de componente de código QR de Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor ayuda a mejorar las habilidades de programación mediante proyectos realistas.
 
-Currently, two official plugins are available:
+## Índice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [Vista general](#vista-general)
+  - [Captura de pantalla](#captura-de-pantalla)
+  - [Enlaces](#enlaces)
+- [Mi proceso](#mi-proceso)
+  - [Tecnologías usadas](#tecnologías-usadas)
+  - [Lo que aprendí](#lo-que-aprendí)
+  - [Próximos pasos](#próximos-pasos)
+  - [Recursos útiles](#recursos-útiles)
+- [Autor](#autor)
 
-## React Compiler
+## Vista general
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Captura de pantalla
 
-## Expanding the ESLint configuration
+<!-- Agrega aquí una captura de tu solución, por ejemplo: ![](./screenshot.jpg) -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Enlaces
+
+- URL de la solución: https://github.com/moises7773/codigo-QR-FontEnd-Mentor.git
+- URL del sitio publicado: https://codigo-qr-font-end-mentor-git-master-moises-aa11.vercel.app/
+
+## Mi proceso
+
+### Tecnologías usadas
+
+<!-- Conserva únicamente lo que hayas usado. -->
+
+- HTML5 semántico
+- CSS personalizado
+- Flexbox
+
+### Lo que aprendí
+
+En este reto aprendí a crear y organizar un proyecto con React y Vite. También practiqué cómo importar imágenes desde `src/assets`, aplicar estilos con CSS y crear una interfaz similar al diseño propuesto.
+
+Además, aprendí a usar Git y GitHub para guardar el proyecto, y Vercel para desplegarlo y compartirlo mediante un enlace público.
+
+
+### Próximos pasos
+
+En los próximos proyectos quiero practicar más React, especialmente la creación de componentes reutilizables y el uso de props.
+
+También quiero mejorar mi diseño responsive para que mis páginas se vean bien en distintos tamaños de pantalla y seguir practicando Git, GitHub y despliegues con Vercel.
+
+### Recursos útiles
+
+- [Frontend Mentor](https://www.frontendmentor.io/) - Me proporcionó el diseño, los recursos y el reto para practicar.
+- [Documentación de React](https://react.dev/) - Me ayudó a comprender mejor la estructura de un proyecto con React.
+- [Documentación de Vite](https://vite.dev/) - Me ayudó a entender cómo funciona el entorno de desarrollo del proyecto.
+- [Vercel](https://vercel.com/) - Utilicé esta plataforma para publicar mi proyecto en internet.
+
+## Autor
+
+- Frontend Mentor: [@tuusuario](https://www.frontendmentor.io/profile/moises7773)
